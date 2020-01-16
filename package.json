@@ -1,0 +1,17 @@
+{
+  "name": "react-nest-components",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashley Narcisse",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^9.4.0"
+  }
+}
